@@ -2,7 +2,7 @@
  This is meant to display projects I have finished, and those I am working on.
  This is supposed to serve as a top level view of my work, for the actual code, click on the project name!.
 
- # [Project 1: Tely 10 Race Success] (https://github.com/OmarTAbdelgawad/Tely10-Race-Visualization)
+ ## [Project 1: Tely 10 Race Success] (https://github.com/OmarTAbdelgawad/Tely10-Race-Visualization)
 * When asked about the success of the Tely10 race, I decided to develop visualizations that approach the problem in different perspectives
 * - Utilized Jupyter-lab and python libraries like pandas, matplotlib, seaborn, plotly express to generate graphs
 * - Visualized success from more than one perspective, whether that be sponsors, or from the runners perspective. 
