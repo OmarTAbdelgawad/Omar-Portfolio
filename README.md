@@ -7,6 +7,7 @@
 * - Utilized Jupyter-lab and python libraries like pandas, matplotlib, seaborn, plotly express to generate graphs
 * - Visualized success from more than one perspective, whether that be sponsors, or from the runners perspective. 
 * - Made sure all visualizations were intuitive to understand, and most of them being interactive too.
+* ![](https://github.com/OmarTAbdelgawad/Omar-Portfolio/blob/main/tely10pie.PNG)
 
 # [Project 2: Olympic Athletes Analysis] (https://github.com/OmarTAbdelgawad/Olympic-Athletes-Analysis)
 * Utilized Jupyter-lab, pandas, matplotlib, seaborn, and ipywidgets to come up with interactive visualizations like
