@@ -30,7 +30,7 @@
  ![](https://github.com/OmarTAbdelgawad/Omar-Portfolio/blob/main/phdsScatter.PNG)
  
  ## [Project 5: Space Wars: a 2D Platformer](https://www.youtube.com/watch?v=pWGNdxVWRDs)
- * Developed a 2D Platformer alongside 3 other students that mimicked old mario games, displaying different weapons and background.
+ * Developed a 2D Platformer using C++ alongside 3 other students that mimicked old mario games, displaying different weapons and background.
  * Used ECS (Entities, Components and Systems) to develop a game engine from scratch and run the game 
  * Incorporated the camera mechanics and some of the AI movement.
  * Implemented some of the parallax in the background and how it moves alongside the player.
