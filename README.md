@@ -7,13 +7,13 @@
 * - Utilized Jupyter-lab and python libraries like pandas, matplotlib, seaborn, plotly express to generate graphs
 * - Visualized success from more than one perspective, whether that be sponsors, or from the runners perspective. 
 * - Made sure all visualizations were intuitive to understand, and most of them being interactive too.
- ![](https://github.com/OmarTAbdelgawad/Omar-Portfolio/blob/main/tely10pie.PNG)
+ ![](/tely10pie.PNG)
 
 ## [Project 2: Olympic Athletes Analysis](https://github.com/OmarTAbdelgawad/Olympic-Athletes-Analysis)
 * Utilized Jupyter-lab, pandas, matplotlib, seaborn, and ipywidgets to come up with interactive visualizations like
 * - A violin plot show-casing the heights of olympic athletes belonging to different sports
 * - A heat-map that shows the height-weight distribution of athletes of different sports
- ![](https://github.com/OmarTAbdelgawad/Omar-Portfolio/blob/main/athletesViolin.PNG)
+ ![](/athletesViolin.PNG)
 
 ## [Project 3: Course Videos Analysis](https://github.com/OmarTAbdelgawad/Course-Video-Analysis)
 * Given datasets that hold my university course's video information such as daily view count, I developed data visualizations that
@@ -21,13 +21,13 @@
 * - Displayed which videos were the most popular, possibly displaying that the material covered was particularly challenging resulting in a rewind
 * - Displayed the change of views since release day for each video, to see how student viewing habits change
 * - Discovered that Wednesday was the most popular day for course video viewing, based on this line polar graph!
- ![](https://github.com/OmarTAbdelgawad/Omar-Portfolio/blob/main/courseLinepolar.PNG)
+ ![](/courseLinepolar.PNG)
 
 ## [Project 4: PHDs per country](https://github.com/OmarTAbdelgawad/PHDs-per-country)
 * Given a dataset of PHD students for multiple fields in many countries, I developed an interactive scatterplot that allows the user 
 * to navigate different PHD % based on gender per country. 
 * - Utilized Jupyter-lab, pandas, matplotlib, seaborn, and ipywidgets 
- ![](https://github.com/OmarTAbdelgawad/Omar-Portfolio/blob/main/phdsScatter.PNG)
+ ![](/phdsScatter.PNG)
  
  ## [Project 5: Space Wars: a 2D Platformer](https://www.youtube.com/watch?v=pWGNdxVWRDs)
  * Developed a 2D Platformer using C++ alongside 3 other students that mimicked old mario games, displaying different weapons and background.
