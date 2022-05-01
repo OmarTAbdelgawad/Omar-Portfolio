@@ -34,6 +34,7 @@
  * Used ECS (Entities, Components and Systems) to develop a game engine from scratch and run the game 
  * Incorporated the camera mechanics and some of the AI movement.
  * Implemented some of the parallax in the background and how it moves alongside the player.
+ * Due to the material being copyrighted by my instructor, I am not allowed to post it on Github, but please contact me if there are any questions
 
 ## Project 6: Football Analysis (In-Progress)
 * Given a dataset of goalscorers for each season across multiple leagues in football, I am generating visualizations that
